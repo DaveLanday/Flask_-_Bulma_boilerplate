@@ -1,0 +1,14 @@
+{
+  "name": "static",
+  "version": "1.0.0",
+  "description": "website boilerplate <replace with an actual description>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Landay",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.8.0"
+  }
+}
